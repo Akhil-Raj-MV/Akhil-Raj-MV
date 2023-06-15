@@ -8,6 +8,14 @@
 - 🌱 &nbsp; Play chess at my free times.
 <br/>
 
+<a href="https://github.com/Akhil-Raj-MV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil-Raj-MV&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Raj-MV&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -21,13 +29,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-<br/>
-
-<a href="https://github.com/Akhil-Raj-MV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil-Raj-MV&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Raj-MV&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
