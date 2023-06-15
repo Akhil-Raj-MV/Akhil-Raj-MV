@@ -35,7 +35,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://portfolio-akhil-raj-mv.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akhilraj.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://portfolio-akhil-raj-mv.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.akhilraj.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/akhil-raj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akhil-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:108akhilraj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-108akhilraj@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
